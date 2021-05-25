@@ -1,6 +1,8 @@
 # PID-Evaluator
 
-## How to run
+This is the kernel code of the online analyzer - Blackbox Mate Online, AKA BBM.
+
+## How to run those scripts?
 
 1. Download and install Anaconda
 2. Download this repo
