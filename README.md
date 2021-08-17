@@ -13,7 +13,7 @@ This is the kernel code of the online analyzer - Blackbox Mate Online, AKA BBM.
 
 Optional: 
 1. Download and install Anaconda
-2. Install jyputer notebook extension in VSCode
+2. Install jupyter notebook extension in VSCode
 3. Then enjoy each cell in VSCode!
 
 ## Dependency
