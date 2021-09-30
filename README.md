@@ -23,7 +23,6 @@ Optional:
 - pandas
 - scipy
 - os
-- 
 
 ## Credit
 
