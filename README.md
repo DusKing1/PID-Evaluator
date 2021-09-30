@@ -26,6 +26,9 @@ Optional:
 - scipy
 - os
 
+## License
+A-GPLv3.0
+
 ## Credit
 
 This tool/script is strongly inspired by [PID-Analyzer](https://github.com/Plasmatree/PID-Analyzer) and [PIDtoolbox](https://github.com/bw1129/PIDtoolbox), so thanks goes to all those whom have contributed to PID-analyzer and PIDtoolbox.
