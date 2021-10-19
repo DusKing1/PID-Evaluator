@@ -2,7 +2,7 @@
 
 This is the kernel code of the online analyzer - Blackbox Mate Online, AKA BBM.
 
-You can check the BBM via this link : bbm.pitronic.top
+You can check the BBM website [here](https://bbm.pitronic.top)
 
 ## How to run those scripts?
 
@@ -12,13 +12,12 @@ You can check the BBM via this link : bbm.pitronic.top
 4. Then just enjoy each cell!
 
 
-
 Optional: 
 1. Download and install Anaconda
 2. Install jupyter notebook extension in VSCode
 3. Then enjoy each cell in VSCode!
 
-## Dependency
+## Dependencies
 
 - numpy
 - matplotlib
