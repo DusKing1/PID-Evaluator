@@ -43,3 +43,5 @@ Big thanks to current and past contributors:
 - Chiang, Hugo (DusKing) - optimizing many details to make it scientific and usable
 - ColinNiu - for the surprising framework
 - Pawn, David (pdw) - for the massive testing job
+
+Thanks to [betaflight blackbox tools](https://github.com/betaflight/blackbox-tools) for the blackbox decoder.
